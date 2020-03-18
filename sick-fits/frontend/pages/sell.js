@@ -1,7 +1,10 @@
 import React from 'react';
+import Link from 'next/link';
 
 const Sell = props => (
-    <p>Sell!</p>
+    <div>
+        <p>Sell!</p>
+    </div>
 )
 
 export default Sell;
